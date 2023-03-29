@@ -553,10 +553,7 @@ video {
   margin-right: auto;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 4dca8f0 (rebase commit)
+
 .my-1 {
   margin-top: 0.25rem;
   margin-bottom: 0.25rem;
@@ -572,48 +569,37 @@ video {
   margin-bottom: 0.5rem;
 }
 
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 4dca8f0 (rebase commit)
+
 .my-3 {
   margin-top: 0.75rem;
   margin-bottom: 0.75rem;
 }
 
->>>>>>> 7b6f141 (Product page)
+
 .my-4 {
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-.my-5 {
-  margin-top: 1.25rem;
-  margin-bottom: 1.25rem;
-=======
-=======
+
 .my-5 {
   margin-top: 1.25rem;
   margin-bottom: 1.25rem;
 }
 
->>>>>>> 4dca8f0 (rebase commit)
+
 .my-8 {
   margin-top: 2rem;
   margin-bottom: 2rem;
 }
 
-<<<<<<< HEAD
+
 .my-2 {
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
->>>>>>> 7b6f141 (Product page)
+
 }
 
-=======
->>>>>>> 4dca8f0 (rebase commit)
 .-ml-5 {
   margin-left: -1.25rem;
 }
@@ -750,6 +736,7 @@ video {
   grid-template-columns: repeat(1, minmax(0, 1fr));
 }
 
+
 .flex-col {
   flex-direction: column;
 }
@@ -814,20 +801,11 @@ video {
   border-bottom-width: calc(2px * var(--tw-divide-y-reverse));
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 4dca8f0 (rebase commit)
 .divide-gray-200 > :not([hidden]) ~ :not([hidden]) {
   --tw-divide-opacity: 1;
   border-color: rgb(229 231 235 / var(--tw-divide-opacity));
 }
 
-<<<<<<< HEAD
-=======
->>>>>>> 7b6f141 (Product page)
-=======
->>>>>>> 4dca8f0 (rebase commit)
 .divide-gray-50 > :not([hidden]) ~ :not([hidden]) {
   --tw-divide-opacity: 1;
   border-color: rgb(249 250 251 / var(--tw-divide-opacity));
@@ -877,40 +855,17 @@ video {
   background-color: rgb(75 85 99 / var(--tw-bg-opacity));
 }
 
-<<<<<<< HEAD
-=======
-.bg-gray-900 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(17 24 39 / var(--tw-bg-opacity));
-}
-
->>>>>>> 4dca8f0 (rebase commit)
 .bg-green-600 {
   --tw-bg-opacity: 1;
   background-color: rgb(22 163 74 / var(--tw-bg-opacity));
 }
 
-<<<<<<< HEAD
 .bg-white {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 4dca8f0 (rebase commit)
-.bg-red-500 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(239 68 68 / var(--tw-bg-opacity));
-}
 
-.bg-white {
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
-}
-
->>>>>>> 7b6f141 (Product page)
 .object-cover {
   -o-object-fit: cover;
      object-fit: cover;
@@ -924,10 +879,6 @@ video {
   padding: 0.75rem;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 4dca8f0 (rebase commit)
 .p-4 {
   padding: 1rem;
 }
@@ -954,7 +905,8 @@ video {
 .px-5 {
   padding-left: 1.25rem;
   padding-right: 1.25rem;
-=======
+}
+
 .p-5 {
   padding: 1.25rem;
 }
@@ -967,7 +919,6 @@ video {
 .px-4 {
   padding-left: 1rem;
   padding-right: 1rem;
->>>>>>> 7b6f141 (Product page)
 }
 
 .px-5 {
@@ -1113,23 +1064,13 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 .underline {
   text-decoration-line: underline;
-=======
-.text-gray-700 {
-  --tw-text-opacity: 1;
-  color: rgb(55 65 81 / var(--tw-text-opacity));
-=======
-.underline {
-  text-decoration-line: underline;
->>>>>>> 4dca8f0 (rebase commit)
 }
 
-.line-through {
-  text-decoration-line: line-through;
->>>>>>> 7b6f141 (Product page)
+.text-gray-700 {
+  --tw-text-opacity: 1
 }
 
 .shadow {
@@ -1169,32 +1110,25 @@ video {
   background-color: rgb(249 250 251 / var(--tw-bg-opacity));
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 .hover\:bg-gray-600:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(75 85 99 / var(--tw-bg-opacity));
 }
 
-=======
->>>>>>> 7b6f141 (Product page)
 .hover\:bg-green-800:hover {
-=======
-.hover\:bg-gray-600:hover {
->>>>>>> 4dca8f0 (rebase commit)
+
   --tw-bg-opacity: 1;
   background-color: rgb(75 85 99 / var(--tw-bg-opacity));
 }
 
-<<<<<<< HEAD
 .hover\:text-blue-800:hover {
   --tw-text-opacity: 1;
   color: rgb(30 64 175 / var(--tw-text-opacity));
-=======
+}
+
 .hover\:bg-gray-700:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(55 65 81 / var(--tw-bg-opacity));
->>>>>>> 7b6f141 (Product page)
 }
 
 .hover\:bg-green-800:hover {
