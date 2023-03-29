@@ -548,11 +548,27 @@ video {
   margin-right: auto;
 }
 
+<<<<<<< HEAD
+=======
+.my-1 {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+
+>>>>>>> bea4c30 (workflow commit)
 .my-10 {
   margin-top: 2.5rem;
   margin-bottom: 2.5rem;
 }
 
+<<<<<<< HEAD
+=======
+.my-2 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+>>>>>>> bea4c30 (workflow commit)
 .my-4 {
   margin-top: 1rem;
   margin-bottom: 1rem;
@@ -561,6 +577,7 @@ video {
 .my-5 {
   margin-top: 1.25rem;
   margin-bottom: 1.25rem;
+<<<<<<< HEAD
 }
 
 .my-1 {
@@ -571,6 +588,8 @@ video {
 .my-2 {
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
+=======
+>>>>>>> bea4c30 (workflow commit)
 }
 
 .-ml-5 {
@@ -693,10 +712,13 @@ video {
   resize: none;
 }
 
+<<<<<<< HEAD
 .resize {
   resize: both;
 }
 
+=======
+>>>>>>> bea4c30 (workflow commit)
 .flex-col {
   flex-direction: column;
 }
@@ -956,24 +978,38 @@ video {
   color: rgb(107 114 128 / var(--tw-text-opacity));
 }
 
+.text-gray-600 {
+  --tw-text-opacity: 1;
+  color: rgb(75 85 99 / var(--tw-text-opacity));
+}
+
 .text-gray-900 {
   --tw-text-opacity: 1;
   color: rgb(17 24 39 / var(--tw-text-opacity));
 }
 
+<<<<<<< HEAD
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
+=======
+>>>>>>> bea4c30 (workflow commit)
 .text-red-500 {
   --tw-text-opacity: 1;
   color: rgb(239 68 68 / var(--tw-text-opacity));
 }
 
+<<<<<<< HEAD
 .text-gray-600 {
   --tw-text-opacity: 1;
   color: rgb(75 85 99 / var(--tw-text-opacity));
+=======
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+>>>>>>> bea4c30 (workflow commit)
 }
 
 .underline {
@@ -1017,16 +1053,27 @@ video {
   background-color: rgb(249 250 251 / var(--tw-bg-opacity));
 }
 
+<<<<<<< HEAD
 .hover\:bg-green-800:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(22 101 52 / var(--tw-bg-opacity));
 }
 
+=======
+>>>>>>> bea4c30 (workflow commit)
 .hover\:bg-gray-600:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(75 85 99 / var(--tw-bg-opacity));
 }
 
+<<<<<<< HEAD
+=======
+.hover\:bg-green-800:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(22 101 52 / var(--tw-bg-opacity));
+}
+
+>>>>>>> bea4c30 (workflow commit)
 .hover\:text-blue-800:hover {
   --tw-text-opacity: 1;
   color: rgb(30 64 175 / var(--tw-text-opacity));
