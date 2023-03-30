@@ -20,6 +20,7 @@
   .swiper-pagination-bullet-active {
     background-color: black;
   }
+  .product--information { height: fit-content; }
 </style>
 
 
@@ -55,7 +56,7 @@
       </div>
     </div>
 
-    <div class="product--information">
+    <div class="product--information sticky top-5 p-2">
       {% form 'product', product %}
         <input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}">
 
